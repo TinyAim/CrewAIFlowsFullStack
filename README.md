@@ -142,7 +142,7 @@ https://gitee.com/NanGePlus/CrewAIFlowsFullStack
 
 ## 3.2 构建项目
 使用pycharm构建一个项目，为项目配置虚拟python环境               
-项目名称：CrewAIFlowsFullstackTest
+项目名称：CrewAIFlowsFullStack                   
 
 ## 3.3 将相关代码拷贝到项目工程中           
 直接将下载的文件夹中的文件拷贝到新建的项目目录中               
