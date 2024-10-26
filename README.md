@@ -6,7 +6,7 @@
 (b)代码实现CrewAI的Flows功能，并支持Flow运行中间结果进行持久化存储和查询(MySQL)，支持多Flow并行(Celery是一个强大的异步任务队列/作业队列库)                                               
 (c)代码实现将AI Agent工作流对外封装API接口提供服务，完成调度Flow接口和查看Flow中间结果接口，并使用Apifox进行前后端联调测试                                  
 **(2)项目案例业务流程图如下所示:**                 
-<img src="./others/img.png" alt="业务流程图" width="900" />                  
+<img src="./img.png" alt="业务流程图" width="900" />                  
 ## 1.2、应用案例简介               
 Flow中定义了2个Crew、3个Agent、5个Task                  
 **(a)Crew1:市场分析**                
