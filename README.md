@@ -1,3 +1,8 @@
+# 0、项目相关视频                
+**(1)FastAPI+CrewAI+MySQL+Celery实现AI Agent复杂工作流，支持工作流的并发异步调度和全生命周期状态监测，支持gpt、国产、本地大模型**                                            
+https://www.bilibili.com/video/BV1P91tY6ELE/?vd_source=30acb5331e4f5739ebbad50f7cc6b949                            
+https://youtu.be/G-Sa5OcuQRE                               
+
 # 1、项目介绍
 ## 1.1、本次分享介绍
 本期视频主要实现使用FastAPI后端框架+CrewAI实现AI Agent复杂工作流项目案例                                
