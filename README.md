@@ -109,7 +109,8 @@ https://apifox.com/
 
 ## 2.4 MySQL数据库安装          
 官网下载软件安装即可。本项目使用的版本是8.4.3LTS                            
-https://dev.mysql.com/downloads/mysql/8.0.html                        
+https://dev.mysql.com/downloads/mysql/8.0.html                
+安装完成之后，新建一个数据库:crewai               
 
 ## 2.5 Redis安装、启动、测试       
 ### (1)Redis安装、启动            
