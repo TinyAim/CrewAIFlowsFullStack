@@ -182,7 +182,7 @@ os.environ["OPENAI_API_BASE"] = "https://api.wlai.vip/v1"
 os.environ["OPENAI_API_KEY"] = "sk-FQZgr4fvjIv8iKaTR8QgtvEEhdS6CfFcNI1EHUTiVqD0R4hr"                      
 os.environ["OPENAI_MODEL_NAME"] = "gpt-4o-mini"                           
 **设置google搜索引擎**                         
-os.environ["SERPER_API_KEY"] = "gpt-4o-ddfea55d4d309045283e518773f11b872c318f0d"                           
+os.environ["SERPER_API_KEY"] = "ddfea55d4d309045283e518773f11b872c318f0d"                           
                                
                        
 ### （2）打开Apifox进行测试            
