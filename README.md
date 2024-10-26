@@ -137,8 +137,8 @@ https://serper.dev/dashboard
 # 3、项目初始化
 ## 3.1 下载源码
 GitHub或Gitee中下载工程文件到本地，下载地址如下：                
-https://github.com/NanGePlus/CrewAIFlowsFullstackTest          
-https://gitee.com/NanGePlus/CrewAIFlowsFullstackTest                 
+https://github.com/NanGePlus/CrewAIFlowsFullStack                                               
+https://gitee.com/NanGePlus/CrewAIFlowsFullStack                                   
 
 ## 3.2 构建项目
 使用pycharm构建一个项目，为项目配置虚拟python环境               
